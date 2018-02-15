@@ -1,0 +1,1180 @@
+{
+  "nodes": [
+    {
+      "type": "m-rin:Party",
+      "id": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "ISNI": "0000 0001 1473 8741",
+      "FullName": "George Martin",
+      "FullNameIndexed": "Martin, George",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "ISNI": "0000 0001 0992 4566",
+      "FullName": "Geoff Emerick",
+      "FullNameIndexed": "Emerick, Geoff",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "ISNI": null,
+      "FullName": "John Kurlander",
+      "FullNameIndexed": "Kurlander, John",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "ISNI": "0000 0001 2117 4585",
+      "FullName": "John Lennon",
+      "FullNameIndexed": "Lennon, John",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "ISNI": "0000 0001 2145 2530",
+      "FullName": "Paul McCartney",
+      "FullNameIndexed": "McCartney, Paul",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "ISNI": "0000 0001 2170 7484",
+      "FullName": "The Beatles",
+      "FullNameIndexed": "Beatles, The",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "337eab74-4ca0-4bfd-ba8c-f8f107d23df1",
+      "ISNI": null,
+      "FullName": "Apple Records",
+      "FullNameIndexed": "Apple Records",
+      "IsOrganization": "true"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "a2a224a0-8b36-4446-b5ef-31c91896d8bc",
+      "ISNI": null,
+      "FullName": "Mal Evans",
+      "FullNameIndexed": "Evans, Mal",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "e272dfb9-7fa7-4c14-8e53-d330162341f9",
+      "ISNI": null,
+      "FullName": "Steve Rooke",
+      "FullNameIndexed": "Rooke, Steve",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "8df6b4e8-d556-4b60-ae5e-25cf98647274",
+      "ISNI": null,
+      "FullName": "Guy Massey",
+      "FullNameIndexed": "Massey, Guy",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:Party",
+      "id": "7b3366c3-ddf1-41c7-a79c-23107af46f50",
+      "ISNI": null,
+      "FullName": "Paul Hicks",
+      "FullNameIndexed": "Hicks, Paul",
+      "IsOrganization": "false"
+    },
+    {
+      "type": "m-rin:MusicalWork",
+      "id": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "Title": "The Ballad Of John And Yoko",
+      "Comment": "Written by John. Shared as usual betwen John and Paul",
+      "MusicalWorkType": "OriginalMusicalWork"
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": null
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Lennon says \"Un string avec caput, Mal!\" at breakdown"
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Breakdown with Paul erroneously adding an extra drum fill before the vocal line \"Made a lightning tip to Vienna\""
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Prior to start of take, John says to drumming Paul \"Go a bit faster Ringo\" to which Paul replies \"OK, George\". Breakdown with Paul erroneously adding an extra drum fill before the vocal line \"Made a lightning tip to Vienna\""
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Breakdown with Paul erroneously adding an extra drum fill before the vocal line \"Made a lightning tip to Vienna\""
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Breakdown with Paul erroneously adding an extra drum fill before the vocal line \"Made a lightning tip to Vienna\""
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": null
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "Breakdown with Paul erroneously adding an extra drum fill before the vocal line \"Made a lightning tip to Vienna\""
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": null,
+      "Comment": null
+    },
+    {
+      "type": "m-rin:Resource",
+      "id": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "Title": "The Ballad Of John And Yoko",
+      "SubTitle": "(They're Gonna Crucify Me)",
+      "Comment": "One take in a higher key"
+    },
+    {
+      "type": "m-rin:Project",
+      "id": "65ca6503-ccbf-4aa5-9a85-52c330c5a9fa",
+      "artist": "The Beatles",
+      "name": "The Ballad Of John And Yoko",
+      "comment": "This will be the fisrt stereo relaese of a Beatles single in the UK. No mono mix made"
+    },
+    {
+      "type": "m-rin:Session",
+      "id": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "SessionType": "Tracking",
+      "StartDateTime": "1969-04-14T14:30:00.0",
+      "EndDateTime": "1969-04-14T21:00:00.0",
+      "VenueName": "Abbey Road Studios",
+      "VenueAddress": "St. Johns Wood London NW8",
+      "VenueRoom": "Studio 3",
+      "Comment": "11 Takes of Basic Track"
+    },
+    {
+      "type": "m-rin:Session",
+      "id": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "SessionType": "Overdub",
+      "StartDateTime": "1969-04-14T14:30:00.0",
+      "EndDateTime": "1969-04-14T21:00:00.0",
+      "VenueName": "Abbey Road Studios",
+      "VenueAddress": "St. Johns Wood London NW8",
+      "VenueRoom": "Studio 3",
+      "Comment": "Overdubs onto Take 10"
+    },
+    {
+      "type": "m-rin:Session",
+      "id": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "SessionType": "Mixing",
+      "StartDateTime": "1969-04-14T21:00:00.0",
+      "EndDateTime": "1969-04-14T23:00:00.0",
+      "VenueName": "Abbey Road Studios",
+      "VenueAddress": "St. Johns Wood London NW8",
+      "VenueRoom": "Studio 3",
+      "Comment": "Stereo Mixing from Take 10 onto Analog 1/4\""
+    },
+    {
+      "type": "m-rin:Session",
+      "id": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "SessionType": "Transfer",
+      "StartDateTime": "2009-04-14T21:00:00.0",
+      "EndDateTime": "2009-04-14T23:00:00.0",
+      "VenueName": "Abbey Road Studios",
+      "VenueAddress": "St. Johns Wood London NW8",
+      "VenueRoom": "Steve Rooke's Matering Room",
+      "Comment": "Digitize analog reels for iTunes Remastering, Rock Band video game and archiving"
+    },
+    {
+      "type": "m-rin:Session",
+      "id": "05754b4c-fe2b-4b60-9ce7-4ea47b0177b4",
+      "SessionType": "Mastering",
+      "StartDateTime": "2009-06-14T21:00:00.0",
+      "EndDateTime": "2009-06-14T23:00:00.0",
+      "VenueName": "Abbey Road Studios",
+      "VenueAddress": "St. Johns Wood London NW8",
+      "VenueRoom": "Steve Rooke's Matering Room",
+      "Comment": "Mastering for iTunes"
+    }
+  ],
+  "links": [
+    {
+      "source": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "ContributorReference",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "role": "ComposerLyricist"
+    },
+    {
+      "source": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "ContributorReference",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "role": "ComposerLyricist"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "b65ebf02-9209-4576-8b31-9970f7e9277a",
+      "type": "SoundRecordingMusicalWorkReference"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "ElectricGuitar"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "PercussionInstrument"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Bass"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticPiano"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": [
+        "Voice",
+        "Backgrounds"
+      ]
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Maracas"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "target": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "target": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "type": "SoundRecordingSessionReference"
+    },
+    {
+      "source": "65ca6503-ccbf-4aa5-9a85-52c330c5a9fa",
+      "target": "5d1c13b4-8bcb-411a-880b-c9391f919ad4",
+      "type": "MainArtist"
+    },
+    {
+      "source": "65ca6503-ccbf-4aa5-9a85-52c330c5a9fa",
+      "target": "337eab74-4ca0-4bfd-ba8c-f8f107d23df1",
+      "type": "Label"
+    },
+    {
+      "source": "65ca6503-ccbf-4aa5-9a85-52c330c5a9fa",
+      "target": "a2a224a0-8b36-4446-b5ef-31c91896d8bc",
+      "type": "ContributorReference",
+      "role": {
+        "_UserDefinedValue": "ProductionCoordinator",
+        "__text": "UserDefined"
+      }
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticGuitar"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Voice"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "DrumSet"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "ElectricGuitar"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "d7112323-f426-483e-a7ec-1696195d2b71",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "PercussionInstrument"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "AcousticPiano"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": [
+        "Backgrounds",
+        "Voice"
+      ]
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Maracas"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "0c3abb21-0436-44af-a8ac-271e81e00cd2",
+      "type": "ContributorReference",
+      "role": "Musician",
+      "instrument": "Bass"
+    },
+    {
+      "source": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "target": "b4248327-1703-4d11-b4f6-df084a38eddb",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "target": "f890b9b4-1c6a-4235-b4dd-d51e0fc5d931",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "target": "1c78fd3d-2ad3-48ec-902f-a3c087c69463",
+      "type": "ContributorReference",
+      "role": "TapeOperator",
+      "instrument": null
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "e272dfb9-7fa7-4c14-8e53-d330162341f9",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "8df6b4e8-d556-4b60-ae5e-25cf98647274",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "7b3366c3-ddf1-41c7-a79c-23107af46f50",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "05754b4c-fe2b-4b60-9ce7-4ea47b0177b4",
+      "target": "e272dfb9-7fa7-4c14-8e53-d330162341f9",
+      "type": "ContributorReference",
+      "role": "StudioProducer",
+      "instrument": null
+    },
+    {
+      "source": "05754b4c-fe2b-4b60-9ce7-4ea47b0177b4",
+      "target": "8df6b4e8-d556-4b60-ae5e-25cf98647274",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "05754b4c-fe2b-4b60-9ce7-4ea47b0177b4",
+      "target": "7b3366c3-ddf1-41c7-a79c-23107af46f50",
+      "type": "ContributorReference",
+      "role": "Engineer",
+      "instrument": null
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "3e7cd495-065f-4cab-9a41-2501b92acb14",
+      "target": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "2e18762b-c822-4f8a-955c-98ced250e42d",
+      "target": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "b417063c-9799-4bfe-8b9a-8241002791e7",
+      "target": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "59be00a3-affa-4c8f-88a8-4618102d7f39",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "5c74dc2e-f40a-479b-b51a-6b5d048a93b1",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "6a9ab966-7463-4c62-919d-6957de28f9a3",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "7d5991f1-5309-4a43-99ee-505f3bfcc372",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "99e8e6e5-da96-4804-b7ac-75e42219cbaa",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "d7777220-bb66-4535-ac29-a23b7702cc98",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "234621e6-5e24-4b25-9f64-b6a0d87f687c",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "40d5661d-9a81-4dc6-8e48-476f7b35db60",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "ed569446-7fa7-40b4-ab05-d0798545524f",
+      "target": "e7e16201-0a59-4cd6-a1d8-4826f15d961e",
+      "type": "SessionSoundRecordingReference"
+    },
+    {
+      "source": "05754b4c-fe2b-4b60-9ce7-4ea47b0177b4",
+      "target": "4cec47f4-190c-4fcb-861a-21f2f4d22a53",
+      "type": "SessionSoundRecordingReference"
+    }
+  ]
+}
